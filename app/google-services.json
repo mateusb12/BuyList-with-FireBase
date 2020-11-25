@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016386508627",
+    "firebase_url": "https://myapp-unifor-8e722.firebaseio.com",
+    "project_id": "myapp-unifor-8e722",
+    "storage_bucket": "myapp-unifor-8e722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016386508627:android:a8183facf18f88d910b3a6",
+        "android_client_info": {
+          "package_name": "br.unifor.cct.listacompras2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016386508627-8ir9b1e1m5mkgb8019jfqtqr6ibk52t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJPko3id_Nvv5DA-0Yb_YcUTx8Vildu3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016386508627-8ir9b1e1m5mkgb8019jfqtqr6ibk52t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
